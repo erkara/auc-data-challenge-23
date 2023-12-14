@@ -9,7 +9,7 @@ This repository includes our augmented dataset regarding zip codes. You can read
 **Blue Barbies Presentation**: this is our winning presentation. I highly suggest to go over this before looking at the codes and datasets.
 
 **data_sources**: this files details the data sources used to augment the initial 1500 zip codes. "final_data.csv" is the final version of the augmented data.
-For clarity, here are the columns we added to our data:
+For clarity, here are the columns we added to our data. All states are present and there is no missing data point.
 
 ## Dataset Columns Description
 
@@ -35,6 +35,7 @@ For clarity, here are the columns we added to our data:
 | `total_income_amount`    | Total Income Amount in the Area                           |
 | `number_of_returns`      | Number of Tax Returns Filed                               |
 
+**dataset**: this folder has all the datasets we utulized to create "final_data.csv". 
 
 **data_augment.ipynb**: Python codes used to augment the initial data. Start from the first one and move to the second one.These two files will reproduce the "final_data.csv".
 
