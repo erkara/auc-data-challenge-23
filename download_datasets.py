@@ -3,7 +3,7 @@ import shutil
 from tqdm.auto import tqdm
 import os
 # Download the datasets used from the following link by invoking this Python file.
-dataset_url = "https://www.dropbox.com/scl/fi/241a0ehp23lqodozgrxft/meta_data.zip?rlkey=mk7u0tp43sw707a4o1h7a6lj5&dl=1"
+dataset_url = "https://www.dropbox.com/scl/fi/jeiwqrqb2nm6litwvvuh3/datasets.zip?rlkey=mkmednlg6iroxlh7yf0ctomil&dl=1"
 
 
 def download_file(url,dest_dir="./"):
