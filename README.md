@@ -6,7 +6,7 @@ I led five amazing Spelman students from the Math Department: Mika Campell, Elon
 
 This repository includes our augmented dataset regarding zip codes. You can read the details in our presentation. We augmented the given dataset, consisting of 1500 US-based zip codes, in a way that we created a unique dataset of its kind that can be super useful for the general public. Here is a brief description of some of the files and folders:
 
-**Blue Barbies Presentation**: this is our winning presentation. I highly suggest to go over this before looking at the codes and datasets.
+**Blue Barbies Presentation**: this is our winning presentation. I highly suggest to go over this before looking at the codes and datasets. Pay special attention to interactive html files that can be accessed from the hyperlinks embedded on the images. 
 
 **data_sources**: this files details the data sources used to augment the initial 1500 zip codes. "final_data.csv" is the final version of the augmented data.
 For clarity, here are the columns we added to our data. All states are present and there is no missing data point.
