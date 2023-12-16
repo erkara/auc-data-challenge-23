@@ -11,6 +11,7 @@ This repository includes our augmented dataset regarding zip codes. You can read
 To get started, assuming you already have Python, do the following. The second one will download and extract all the datasets we use in this repo. You should see "datasets" folder in your current directory.
 
 | pip install -r requirements.txt
+
 | python download_datasets.py
 
 
